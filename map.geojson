@@ -12,9 +12,6 @@
         },
     {
         "type": "Feature",
-        "properties": {
-            "popupContent": "500 Club"
-        },
         "geometry": {
             "type": "Point",
             "coordinates": [-122.408516, 37.755050]
@@ -22,13 +19,52 @@
     },
     {
         "type": "Feature",
-        "properties": {
-            "popupContent": "500 Club"
-        },
         "geometry": {
             "type": "Point",
             "coordinates": [-122.479968, 37.759273]
         }
-    }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.502029, 37.750526 ]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [ -122.475782, 37.776629 ]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [ -122.420853, 37.742887] 
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [ -122.430355, 37.735603] 
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.441733, 37.776449] 
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": -122.430182, 37.735430]
+        }
+    },
     ]
 }
