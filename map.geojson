@@ -1,12 +1,34 @@
-{
-    "type": "Feature",
-    "properties": {
-        "name": "Coors Field",
-        "amenity": "Baseball Stadium",
-        "popupContent": "This is where the Rockies play!"
+{   "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "500 Club"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.423736, 37.763168]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "popupContent": "500 Club"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.408516, 37.755050]
+        }
     },
-    "geometry": {
-        "type": "Point",
-        "coordinates": [-104.99404, 39.75621]
+    {
+        "type": "Feature",
+        "properties": {
+            "popupContent": "500 Club"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.479968, 37.759273]
+        }
     }
+    ]
 }
