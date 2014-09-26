@@ -1,4 +1,4 @@
-onFeature = {
+{
     "type": "Feature",
     "properties": {
         "name": "Coors Field",
@@ -9,4 +9,4 @@ onFeature = {
         "type": "Point",
         "coordinates": [-104.99404, 39.75621]
     }
-};
+}
