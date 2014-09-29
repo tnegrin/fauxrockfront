@@ -189,6 +189,56 @@
             "type": "Point",
             "coordinates": [-122.433817, 37.772988]
         }
+    },
+    {
+        "type": "Feature",
+    	"properties": {
+		"popupContent": "fauxrockfront"
+    	},
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.422307, 37.743930]
+        }
+    },
+    {
+        "type": "Feature",
+    	"properties": {
+		"popupContent": "fauxrockfront"
+    	},
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.459982, 37.721631]
+        }
+    },
+       {
+        "type": "Feature",
+    	"properties": {
+		"popupContent": "fauxrockfront"
+    	},
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.436682, 37.75753]
+        }
+    },
+    {
+        "type": "Feature",
+    	"properties": {
+		"popupContent": "fauxrockfront"
+    	},
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.431282, 37.769329]
+        }
+    },
+    {
+        "type": "Feature",
+    	"properties": {
+		"popupContent": "fauxrockfront"
+    	},
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.430382, 37.766029]
+        }
     }
     ]
 }
