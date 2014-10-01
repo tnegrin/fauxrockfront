@@ -8,7 +8,7 @@
 <div id="map" style="width: 600px; height: 400px"></div>
 
 <script>
-var map = L.map('map').setView([37.735991, -122.427958], 13);
+var map = L.map('map').setView([37.765929, -122.442482], 12);
 
 L.tileLayer('https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {
 			maxZoom: 18,
@@ -18,7 +18,9 @@ L.tileLayer('https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {
 			id: 'examples.map-i875mjb7'
 		}).addTo(map);
 
-var geojsonFeature = { "type": "FeatureCollection",
+// TODO This data is copied from map.geojson - there are better ways to do this 
+var geoJsonFeatureCollection = {   
+    "type": "FeatureCollection",
     "features": [
     {
     	"type": "Feature",
@@ -209,11 +211,66 @@ var geojsonFeature = { "type": "FeatureCollection",
             "type": "Point",
             "coordinates": [-122.433817, 37.772988]
         }
+    },
+    {
+        "type": "Feature",
+    	"properties": {
+		"popupContent": "fauxrockfront"
+    	},
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.422307, 37.743930]
+        }
+    },
+    {
+        "type": "Feature",
+    	"properties": {
+		"popupContent": "fauxrockfront"
+    	},
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.459982, 37.721631]
+        }
+    },
+       {
+        "type": "Feature",
+    	"properties": {
+		"popupContent": "fauxrockfront"
+    	},
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.436682, 37.75753]
+        }
+    },
+    {
+        "type": "Feature",
+    	"properties": {
+		"popupContent": "fauxrockfront"
+    	},
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.431282, 37.769329]
+        }
+    },
+    {
+        "type": "Feature",
+    	"properties": {
+		"popupContent": "fauxrockfront"
+    	},
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.430382, 37.766029]
+        }
     }
     ]
-}
+};
 
-L.geoJson(geojsonFeature).addTo(map);
+L.geoJson(geoJsonFeatureCollection, { 
+	onEachFeature: function (feature, layer) {
+		layer.bindPopup("<img height='50', width='50', src='500club.png'>")
+	}
+}
+).addTo(map);
 
 </script>
 </body>
