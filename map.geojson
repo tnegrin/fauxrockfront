@@ -239,6 +239,1126 @@
             "type": "Point",
             "coordinates": [-122.430382, 37.766029]
         }
-    }
+    },
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Downey at Frederick (Ashbury Heights)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.767112, -122.447191]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Downey at Frederick (Ashbury Heights)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.767112, -122.447191]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Alpine at 14th St (Buena Vista )"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.767232, -122.437285]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Alpine at 14th St (Buena Vista )"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.767232, -122.437285]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Alpine at 14th St (Buena Vista )"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.767232, -122.437285]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "19th at Castro (Castro)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.759293, -122.43483]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "20th St at Diamond (Castro)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.757561, -122.436871]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Eureka at 21st (Castro)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.755893, -122.437803]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "18th between Noe & Sanchez (Castro)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.754365, -122.429906]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "18th between Noe & Sanchez (Castro)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.754365, -122.429906]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "18th between Noe & Sanchez (Castro)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.754365, -122.429906]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "18th & Diamond (Castro)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.760761, -122.437185]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "18th & Eureka (Castro)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.760692, -122.438265]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "17th & Hartford (Castro)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.762544, -122.434015]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "19th near Douglass (Castro)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.759032, -122.439167]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Castro & 19th (Castro)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.759293, -122.43483]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "19th St. at Castro (Castro)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.759293, -122.43483]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "17th St. and Eureka (Castro)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.762298, -122.438362]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Caselli Ave at Clover Lane (Castro)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.759672, -122.441494]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Pond St at Market (Castro)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.762676, -122.432097]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Harford at 20th St (Castro)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.757761, -122.433581]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Douglass at 19th St (Castro)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.759032, -122.439167]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Market near Danvers (Castro  ?)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.760463, -122.443495]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Carmel at Cole (Cole Valley)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.760852, -122.448952]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Belvedere b/t Waller & Frederick (Cole Valley)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.766872, -122.449088]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Belvedere b/t Waller & Frederick (Cole Valley)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.766872, -122.449088]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Frederick near Clayton (Cole Valley)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.7671, -122.447917]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Cole St at Parnassus (Cole Valley)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.764871, -122.449773]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "States St. (Corona Heights)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.763591, -122.439489]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Douglass near States (Corona Heights )"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.763477, -122.439092]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Castro at 14th (Duboce Triange)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.767343, -122.435597]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Sanchez near Duboce (Duboce Triange)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.769321, -122.43131]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "15th at Market (Duboce Triange)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.766042, -122.430673]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "15th at Market (Duboce Triange)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.766042, -122.430673]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Church near Hermann (Duboce Triange)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.770363, -122.429252]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "15th at Noe (Duboce Triange)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.765877, -122.43324]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Noe at 14th (Duboce Triange)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.767471, -122.433389]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Duboce @ Belcher (Duboce Triange)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.769394, -122.430225]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Sanchez at 14th (Duboce Triange)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.76761, -122.431179]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "6th Ave at Balboa (Inner Richmond)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.777228, -122.464013]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "California at 8th (Inner Richmond)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.78472, -122.466712]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "6th at Clement (Inner Richmond)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.782952, -122.464428]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Clement at 6th (Inner Richmond)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.782952, -122.464428]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "5th at Clement (Inner Richmond)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.782997, -122.463355]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "3rd at Clement (Inner Richmond)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.783108, -122.461212]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "6th at Clement (Inner Richmond)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.782952, -122.464428]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "2nd Ave. at Lake (Inner Richmond)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.786872, -122.460411]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Balboa at Arguello (Inner Richmond )"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.777269, -122.458581]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "3rd Ave at Geary (Inner Richmond )"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.7811, -122.461065]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Anza at 3rd Ave (Inner Richmond )"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.779243, -122.460937]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "2nd Ave at Anza (Inner Richmond )"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.779291, -122.459865]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "2nd Ave b/t Irving & Hugo (Inner Sunset)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.774929, -122.419416]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Carl at Arguello (Inner Sunset)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.764818, -122.457718]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Arguello at Hugo (Inner Sunset)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.765346, -122.457759]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "6th Ave at Hugo (Inner Sunset)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.765122, -122.463168]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Commonwealth at Euclid (Jordan Park)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.78398, -122.455711]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Jordan near Euclid (Jordan Park)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.783929, -122.456821]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Parker at California (Laurel Heights)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.786244, -122.454774]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Lyon at Pine (Laurel Heights)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.786476, -122.445219]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Willard North at Golden Gate (Lone Mountain)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.776419, -122.456663]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Beaumont at Geary (Lone Mountain)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.781517, -122.455282]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Turk & Temescal (Lone Mountain)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.777912, -122.452421]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Stanyan near Turk (Lone Mountain)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.777637, -122.455367]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Haight at Steiner (Lower Haight)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.771908, -122.432075]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Haight at Steiner (Lower Haight)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.771908, -122.432075]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Laguna at Haight (Lower Haight)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.772731, -122.425543]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Bryant at Cesar Chavez (Mission)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.748408, -122.408715]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Cesar Chavez at S Van Ness (Mission)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.748255, -122.415885]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Mission at 18th (Mission)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.76184, -122.419402]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Bryant at 20th (Mission)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.759193, -122.409795]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Guerrero at 14th (Mission Dolores)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.768004, -122.424498]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "17th at Guerero (Mission Dolores)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.763174, -122.423958]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "16th at Rondel (Mission Dolores)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.764961, -122.421247]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Sycamore St (Mission Dolores)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.767343, -122.435597]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Sycamore St (Mission Dolores)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.767343, -122.435597]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Guerrero at 18th (Mission Dolores)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.761569, -122.423802]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Douglass at 21st St  (Noe Valley)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.755425, -122.438862]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "24th St. at Diamond  (Noe Valley)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.75116, -122.436306]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Church at 27th (Noe Valley)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.746894, -122.426983]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Duncan at Church (Noe Valley)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.746099, -122.426906]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Sanchez at 26th (Noe Valley)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.748358, -122.429337]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "23rd near Douglass (Noe Valley)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.752636, -122.438637]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Church near 24th (Noe Valley)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.751705, -122.427349]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "22nd at York (Northeast Mission)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.756055, -122.408502]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "York at 23rd St (Northeast Mission)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.75446, -122.408358]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Bryant at 23rd St (Northeast Mission)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.754393, -122.409291]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Treat at 24th St (Northeast Mission)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.752569, -122.413005]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "24th St at Shotwell (Northeast Mission)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.752436, -122.415181]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "24th St at Orange (Northeast Mission)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.752148, -122.420116]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Oak at Lyon (Panhandle)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.772516, -122.442385]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Oak at Baker (Panhandle)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.772722, -122.440727]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Ashbury b/t Hayes & Grove (Panhandle)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.773745, -122.447687]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Oak at Ashbury (Panhandle)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.771996, -122.446599]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Lake at 24th (Seacliff)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.785799, -122.483933]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Augusta at Elmira (Silver Terrace?)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.734406, -122.403584]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "5th near Harrison (SoMa)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.779049, -122.401862]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Page at Baker (Upper Haight)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.771788, -122.440532]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "15th & Church (Upper Martket?)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.766138, -122.428808]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Fulton at Baker (Western Addition)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.776445, -122.441493]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Fulton at Baker (Western Addition)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.776445, -122.441493]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Lyon at Fulton (Western Addition)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.776229, -122.443134]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Fulton at Lyon (Western Addition)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.776229, -122.443134]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Fell at Broderick (Western Addition)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.773869, -122.439275]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Fell at Broderick (Western Addition)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.773869, -122.439275]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Hayes at Divis (Western Addition)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.775003, -122.437822]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Divis at Page (Western Addition)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.772223, -122.437159]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "McAllister at Central (Western Addition)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.776954, -122.444968]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "McAllister at Broderick (Western Addition)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.777587, -122.440031]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Divis at Sutter (Western Addition)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.785262, -122.439806]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Hayes at Baker (Western Addition)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.774582, -122.441118]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Lyon at Golden Gate (Western Addition)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.7781, -122.44351]
+		}
+	},
+	{
+	"type": "Feature",
+		"properties": {
+			"popupContent": "Central at Turk (Western Addition)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.778851, -122.445331]
+		}
+	},
     ]
 }
